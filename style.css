@@ -69,6 +69,12 @@ a {
   color: var(--highlight);
 }
 
+{div img 
+  width: 100px; /* or whatever thumbnail size you want */
+  height: auto; /* keeps the image’s aspect ratio */
+}
+
+
 a:hover {
   border-bottom: 1px solid;
 }
