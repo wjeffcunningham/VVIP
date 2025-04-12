@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">64910b92-4fcf-4d70-a08f-2ce69444ce3f</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:title>IJPAUC?</dc:title>
+    <meta property="dcterms:modified">2025-04-10T16:37:01Z</meta>
+  </metadata>
+  <manifest>
+    <item href="nav.xhtml" id="toc" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="IJPAUC.xhtml" id="main" media-type="application/xhtml+xml"/>
+    <item href="images/image2.png" id="image2.png" media-type="image/png"/>
+    <item href="images/image3.gif" id="image3.gif" media-type="image/gif"/>
+    <item href="images/image1.png" id="image1.png" media-type="image/png"/>
+    <item href="images/image5.gif" id="image5.gif" media-type="image/gif"/>
+    <item href="images/image8.gif" id="image8.gif" media-type="image/gif"/>
+    <item href="images/image9.jpg" id="image9.jpg" media-type="image/jpeg"/>
+    <item href="images/image4.jpg" id="image4.jpg" media-type="image/jpeg"/>
+    <item href="images/image7.gif" id="image7.gif" media-type="image/gif"/>
+    <item href="images/image10.png" id="image10.png" media-type="image/png"/>
+    <item href="images/image6.png" id="image6.png" media-type="image/png"/>
+    <item href="images/image11.gif" id="image11.gif" media-type="image/gif"/>
+  </manifest>
+  <spine>
+    <itemref idref="main"/>
+  </spine>
+</package>
