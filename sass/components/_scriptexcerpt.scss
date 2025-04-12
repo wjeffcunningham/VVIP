@@ -1,0 +1,29 @@
+.script {
+    border: lightgrey solid 10px;
+    padding: 15px;
+    margin: 15px 0px;
+}
+
+.scriptexcerpt {
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  border: lightgrey solid 10px;
+  padding: 15px;
+  margin: 15px 0px;
+}
+
+.scriptexcerpt p
+{
+  font-family: "Courier Prime", monospace;
+  // margin: 0px;  
+}
+
+.scriptexcerpt-center p
+{
+  text-align: center;
+}
+
+.scriptexcerpt-left
+{
+  text-align: none;
+}
